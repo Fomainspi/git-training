@@ -1,1 +1,2 @@
 Git lessons
+Always commit every monday to make your week bright
